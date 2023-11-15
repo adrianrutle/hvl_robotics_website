@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bug2"
+title: "Robot Teams"
 permalink: /courses/dat160/a4
 toc: true # The right side bar "on this page"
 breadcrumbs: true  # the directory-of-documents type of header navigation
